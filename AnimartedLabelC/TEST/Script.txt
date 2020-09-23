@@ -1,0 +1,53 @@
+<This is a Credit information file for the creidits dialogbox application.
+<Comments:After the symbol "<" will not be displayed on the credits dialogbox.For example this line starts with "<",so that this line will not display on the dialogbox.
+<Each Newlines will also display new lines on the credits dialogbox
+<To manipulate Fonts we can use the following tags.
+<
+<Available Tags List:>
+<F.BOLD>,<F.ITALIC>,<F.STRIKETHROUGH>,<F.UNDERLINE>
+<F.WGHT:,<F.SIZEX:,<F.CAHRS:,<F.COLOR:,<F.NAMEX: <eg:<F.COLOR:&H000000FF>
+<
+<The tags are not case sensitive
+<
+<Color Constants
+<65535-Yellow Color
+<16777215-White Color
+<You can copy more color constants from vb
+<
+<The below lines will displayed on the credits dialogbox.
+<
+
+
+Real World Electronic Arts Ltd<F.NAMEX:Arial><F.BOLD><F.SIZEX:13>
+Animated Label 1.0 Demo program<F.underline><F.sizex:12>
+
+
+
+A program By<F.BOLD><F.NAMEX:Arial>
+Satheesh Chandran
+
+
+
+Copyright<F.bold><F.NAMEX:Arial>
+(c) 2005-2006 Satheesh Chandran
+Allrights Reserved
+
+
+
+Homepage<F.bold><F.NAMEX:Arial>
+www.geocities.com/realworldsoftwares
+
+
+
+Contact<F.bold><F.NAMEX:Arial>
+vigyana_bikshu@yahoo.co.in
+
+
+Phone<F.bold><F.NAMEX:Arial>
++9104923241245
+
+
+Sathyam<F.bold><F.NAMEX:Arial>
+Shivam<F.bold><F.NAMEX:Arial>
+Sundharam<F.bold><F.NAMEX:Arial>
+-----------------------------------------------------------------
